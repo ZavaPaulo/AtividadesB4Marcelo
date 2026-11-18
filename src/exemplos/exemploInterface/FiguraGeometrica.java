@@ -1,4 +1,4 @@
-package exemploInterface;
+package exemplos.exemploInterface;
 
 public interface FiguraGeometrica {
     public double area();

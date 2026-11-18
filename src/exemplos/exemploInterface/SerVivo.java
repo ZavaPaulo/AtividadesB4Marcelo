@@ -1,4 +1,4 @@
-package exemploInterface;
+package exemplos.exemploInterface;
 
 public interface SerVivo {
     //declaração das assinaturas (métodos)

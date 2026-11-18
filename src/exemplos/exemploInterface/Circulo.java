@@ -1,4 +1,4 @@
-package exemploInterface;
+package exemplos.exemploInterface;
 
 public class Circulo implements FiguraGeometrica{
     private double raio;

@@ -1,4 +1,4 @@
-package exemploInterface;
+package exemplos.exemploInterface;
 
 public class Animal implements SerVivo{
     public boolean vivo = true;
