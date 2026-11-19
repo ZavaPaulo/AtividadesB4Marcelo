@@ -1,4 +1,4 @@
-package exemplos.exemploInterface;
+package exemplos.exemploInterface.figuraGeometrica;
 
 public class Retangulo implements FiguraGeometrica{
     private double altura;

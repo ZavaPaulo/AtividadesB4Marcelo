@@ -1,6 +1,6 @@
-package exemplos.exemploInterface;
+package exemplos.exemploInterface.animal;
 
-public class Animal implements SerVivo{
+public class Animal implements SerVivo {
     public boolean vivo = true;
 
     @Override

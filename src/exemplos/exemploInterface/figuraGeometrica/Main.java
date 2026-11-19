@@ -1,4 +1,4 @@
-package exemplos.exemploInterface;
+package exemplos.exemploInterface.figuraGeometrica;
 
 public class Main {
     static void main(String[] args) {
